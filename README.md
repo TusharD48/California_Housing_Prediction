@@ -23,3 +23,10 @@ pip install -r requirements.txt
 git config --globar user.name
 git config --globar user.email
 ```
+### Adding files to the github repository
+```
+git add .
+git status
+git commit -m "commit message"
+git push origin main
+```
